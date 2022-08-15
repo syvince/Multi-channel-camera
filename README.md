@@ -1,4 +1,4 @@
-# bjtu_BinocularCameraRecord
+# Multi-channel-camera
 ## 运行环境
 Anaconda3 (python3 pyQt5 numpy OpenCV threading threadpool)
 ## 使用说明
